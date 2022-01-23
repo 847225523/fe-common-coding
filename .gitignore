@@ -102,3 +102,19 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
+
+backup/
+
+package-lock.json
+
+20-0125/
+21-0126/
+22-0127/
+23-0128/
+24-0129/
+25-0130/
+
+
+
